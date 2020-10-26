@@ -2,3 +2,4 @@
 TestMercari.csv
 TrainMercari.csv
 MercariDataCleaned.csv
+*.csv
